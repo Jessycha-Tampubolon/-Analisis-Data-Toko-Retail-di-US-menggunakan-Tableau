@@ -20,5 +20,5 @@ Jenis visualisasinya adalah line chart dan area chart.
 
 ## Dashboard
 Pada dashboard, terdapat filter Product Category dan Region. Jenis pengaturan filter adalah  single value list. 
-Dashboard dapa diakses pada link berikut:
+Dashboard dapat diakses pada link berikut:
 https://public.tableau.com/app/profile/jessycha.royanti.tampubolon/viz/AnalisisDataTokoRetaildiUS_16354935882080/AnalisisdataTokoRetaildiUS?publish=yes
